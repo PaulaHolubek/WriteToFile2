@@ -1,0 +1,10 @@
+C:\CC6\Labs\WritetoFile2\WritetoFile2\bin\Debug\WritetoFile2.exe.config
+C:\CC6\Labs\WritetoFile2\WritetoFile2\bin\Debug\WritetoFile2.exe
+C:\CC6\Labs\WritetoFile2\WritetoFile2\bin\Debug\WritetoFile2.pdb
+C:\CC6\Labs\WritetoFile2\WritetoFile2\obj\Debug\WritetoFile2.csprojAssemblyReference.cache
+C:\CC6\Labs\WritetoFile2\WritetoFile2\obj\Debug\WritetoFile2.Form1.resources
+C:\CC6\Labs\WritetoFile2\WritetoFile2\obj\Debug\WritetoFile2.Properties.Resources.resources
+C:\CC6\Labs\WritetoFile2\WritetoFile2\obj\Debug\WritetoFile2.csproj.GenerateResource.cache
+C:\CC6\Labs\WritetoFile2\WritetoFile2\obj\Debug\WritetoFile2.csproj.CoreCompileInputs.cache
+C:\CC6\Labs\WritetoFile2\WritetoFile2\obj\Debug\WritetoFile2.exe
+C:\CC6\Labs\WritetoFile2\WritetoFile2\obj\Debug\WritetoFile2.pdb
